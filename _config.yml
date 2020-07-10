@@ -9,6 +9,10 @@ description: 日々の思ったこととか勉強したことをつらつら
 # Your name to show in the footer
 author: パトリック
 
+baseurl: /MyBlog
+
+url: hideki1217.github.io/
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
